@@ -25,12 +25,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VIAL_KEYBOARD_UID {0x60, 0x5E, 0x86, 0x52, 0x42, 0x4A, 0x4F, 0x06}
 
 // [3,4] [9,1]
-// I think it's not usefull for uf2boot, when you jump to usb flash, you can always flash although vial security is lock
 #define VIAL_UNLOCK_COMBO_ROWS {3, 9}
 #define VIAL_UNLOCK_COMBO_COLS {4, 1}
 
-#define MASTER_LEFT
-//#define EE_HANDS
-
+//#define MASTER_LEFT
+#define EE_HANDS
 //#define SPLIT_USB_DETECT
+
 #define SPLIT_USB_TIMEOUT 5000
