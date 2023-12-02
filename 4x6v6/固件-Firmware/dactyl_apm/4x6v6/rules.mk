@@ -14,7 +14,7 @@ SERIAL_DRIVER = usart
 
 ## Build Options
 #LTO_ENABLE = yes           ## Link Time Optimization, And smaller sise
-NKRO_ENABLE = no            ## Enable N-Key Rollover
+NKRO_ENABLE = yes           ## Enable N-Key Rollover
 BOOTMAGIC_ENABLE = no       ## Enable Bootmagic Lite
 MOUSEKEY_ENABLE = yes       ## Mouse keys
 EXTRAKEY_ENABLE = yes       ## Audio control and System control
