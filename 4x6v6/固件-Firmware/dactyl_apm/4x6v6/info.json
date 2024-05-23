@@ -19,7 +19,7 @@
     },
 
     "split": {
-        "soft_serial_pin": "B6"
+        "soft_serial_pin": "A10"
     },
 
     "layout_aliases": {
