@@ -34093,41 +34093,41 @@ difference () {
       union () {
         translate ([-93.81608929627292, 62.82780866593008, 1.9]) {
           union () {
-            cylinder (h=3.8, r1=2.655, r2=2.55, center=true);
+            cylinder (h=3.8, r1=2.655 - 0.305, r2=2.55 - 0.3, center=true);
             translate ([0, 0, 1.9]) {
-              sphere (r=2.55);
+              //sphere (r=2.55);
             }
           }
         }
         translate ([-101.44533127617807, -32.602819458564156, 1.9]) {
           union () {
-            cylinder (h=3.8, r1=2.655, r2=2.55, center=true);
+            cylinder (h=3.8, r1=2.655 - 0.305, r2=2.55 - 0.3, center=true);
             translate ([0, 0, 1.9]) {
-              sphere (r=2.55);
+              //sphere (r=2.55);
             }
           }
         }
         translate ([-39.07237946816516, -65.38594773180799, 1.9]) {
           union () {
-            cylinder (h=3.8, r1=2.655, r2=2.55, center=true);
+            cylinder (h=3.8, r1=2.655 - 0.305, r2=2.55 - 0.3, center=true);
             translate ([0, 0, 1.9]) {
-              sphere (r=2.55);
+              //sphere (r=2.55);
             }
           }
         }
         translate ([-19.176656195898886, 63.49153573712543, 1.9]) {
           union () {
-            cylinder (h=3.8, r1=2.655, r2=2.55, center=true);
+            cylinder (h=3.8, r1=2.655 - 0.305, r2=2.55 - 0.3, center=true);
             translate ([0, 0, 1.9]) {
-              sphere (r=2.55);
+              //sphere (r=2.55);
             }
           }
         }
         translate ([36.999337616299535, 13.993137881933956, 1.9]) {
           union () {
-            cylinder (h=3.8, r1=2.655, r2=2.55, center=true);
+            cylinder (h=3.8, r1=2.655 - 0.305, r2=2.55 - 0.3, center=true);
             translate ([0, 0, 1.9]) {
-              sphere (r=2.55);
+              //sphere (r=2.55);
             }
           }
         }
