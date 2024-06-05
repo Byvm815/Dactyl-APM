@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define HAL_USE_SERIAL TRUE
 
-#define VIAL_KEYBOARD_UID {0x60, 0x5E, 0x86, 0x52, 0x42, 0x4A, 0x4F, 0x06}
+#define VIAL_KEYBOARD_UID {0xD4, 0xA1, 0x7A, 0xAD, 0x11, 0x14, 0x89, 0x2D}
 
 // [4,4] [11,2]
 #define VIAL_UNLOCK_COMBO_ROWS {4, 11}
