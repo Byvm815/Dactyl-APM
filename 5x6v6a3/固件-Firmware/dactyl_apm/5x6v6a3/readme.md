@@ -8,6 +8,13 @@ Build in qmk:
 ```
 qmk setup -H ~/Git/vial-qmk
 
+qmk flash -kb dactyl_apm/5x6v6a3 -km vial -bl uf2-split-right
+
+qmk flash -kb dactyl_apm/5x6v6a3 -km vial -bl uf2-split-left
+```
+
+Or build in make(pkgs:gnumake,python3,gcc-arm-embedded-8):
+```
 make dactyl_apm/4x6v6:vial:uf2-split-right
 
 make dactyl_apm/4x6v6:vial:uf2-split-left
