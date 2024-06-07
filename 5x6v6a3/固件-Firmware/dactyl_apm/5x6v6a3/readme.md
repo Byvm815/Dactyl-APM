@@ -1,4 +1,4 @@
-This project test in vial-qmk version: ee7f5acefb3fa3e69b1dd2ef325ede1698bef1c9
+This project test in vial-qmk version: abf8752cedb31c3f2b6fd5f0e8cb516808c4636e
 
 ***STM32F103xB_uf2boot.ld*** file copy from https://github.com/qmk/qmk_firmware/tree/master/platforms/chibios/boards/common/ld
 
